@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/textures/snake.jpg</file>
+        <file>data/textures/mars.jpg</file>
+        <file>data/textures/mars.png</file>
+        <file>data/textures/astra/negx.jpg</file>
+        <file>data/textures/astra/negy.jpg</file>
+        <file>data/textures/astra/negz.jpg</file>
+        <file>data/textures/astra/posx.jpg</file>
+        <file>data/textures/astra/posy.jpg</file>
+        <file>data/textures/astra/posz.jpg</file>
+        <file>data/textures/rock.jpg</file>
+    </qresource>
+</RCC>
